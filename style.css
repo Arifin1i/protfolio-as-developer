@@ -1,0 +1,33 @@
+.myName {
+    color: blueviolet;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 50px;
+}
+
+.half-width img {
+    width: 75%;
+}
+
+.anchor-design {
+    text-decoration: none;
+    background-image: linear-gradient(salmon, purple);
+    padding: 10px 50px;
+    color: white;
+    font-weight: 700;
+
+}
