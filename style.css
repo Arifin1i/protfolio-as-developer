@@ -4,6 +4,7 @@
 
 body {
     font-family: 'Roboto Slab', serif;
+    margin: 0%;
 }
 
 h1 {
@@ -29,5 +30,12 @@ section {
     padding: 10px 50px;
     color: white;
     font-weight: 700;
+
+}
+
+.starting-tab {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
 
 }
