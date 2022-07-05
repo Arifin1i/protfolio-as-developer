@@ -47,3 +47,29 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.border-shadow {
+    width: 40%;
+    margin-inline: 5%;
+    box-shadow: 10px 10px 10px gray;
+    border-left: 10px solid salmon;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+#full-sack {
+    border-left: 10px solid salmon;
+}
+
+#Baby-web {
+    border-left: 10px solid blue;
+}
+
+footer {
+    text-align: center;
+}
